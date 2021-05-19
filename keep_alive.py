@@ -1,5 +1,3 @@
-import os
-os.system("pip3 install [flask]")
 from flask import Flask
 from threading import Thread
 
